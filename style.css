@@ -27,8 +27,8 @@ main {
 }
 
 #input {
-    border-radius: 10px;
-    font-size: 20px;
+  border-radius: 10px;
+  font-size: 20px;
 }
 
 .text {
@@ -42,7 +42,7 @@ main {
 }
 
 span {
-  font-weight: 100;
+  font-weight:100;
   font-family: Courier New;
 }
 
