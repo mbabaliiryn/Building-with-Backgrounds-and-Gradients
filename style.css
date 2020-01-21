@@ -86,6 +86,7 @@ footer #img .img2 {
 
 .foot-text .link {
     text-decoration: none;
+    color: #5ac6fb;
 }
 
 #foot2{
@@ -94,13 +95,17 @@ footer #img .img2 {
     column-gap: 10px;
     list-style: none;
     margin-left: 70%;
+    transform: translateY(-120px); 
 }
 
-#foot2 .link2{
+#foot2 .link2 {
     text-decoration: none;
-    display: grid;
-    justify-content: center;    
+    color: #5ac6fb;
+    font-size: 20px;
+}
 
+#foot2 .link2:hover{
+    text-decoration: underline;  
 }
 
 
