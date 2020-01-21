@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -18,8 +18,6 @@ main {
   background-color: #565457;
   transform: translateY(100px);
   padding: 15px 0;
-  margin-left: 10%;
-  margin-right: 10%;
   border-radius: 10px;
   margin-left: 150px;
   margin-right: 150px;
@@ -33,7 +31,7 @@ main {
 
 .text {
   padding-top: 180px;
-  margin-left:30%;
+  margin-left: 30%;
   margin-right: 30%;
   font-size: 40px;
   color: #fff;
@@ -42,7 +40,7 @@ main {
 }
 
 span {
-  font-weight:100;
+  font-weight: 100;
   font-family: Courier New;
 }
 
@@ -55,7 +53,7 @@ span {
 }
 
 .nav-list {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -63,7 +61,7 @@ span {
   display: flex;
   justify-content: space-around;
   font-size: 25px;
-  color: #ffffff;
+  color: #fff;
   list-style: none;
 }
 
@@ -113,7 +111,7 @@ footer #img .img2 {
 }
 
 #foot2 .link2:hover {
-  text-decoration: underline; 
+  text-decoration: underline;
 }
 
 
