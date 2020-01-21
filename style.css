@@ -2,15 +2,18 @@
     margin: 0;
     padding: 0;
 }
+
 body {
    overflow: scroll;
 }
+
 main {
     background-image: url("img/large.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
 }  
+
 #nav-bar {
     background-color:#565457;
     transform:translateY(100px);
@@ -22,10 +25,12 @@ main {
     margin-right: 150px;
     height: 30px; 
 }
+
 #input {
     border-radius: 10px;
     font-size: 20px;
 }
+
 .text {
     padding-top: 180px;
     margin-left:30%;
@@ -35,20 +40,25 @@ main {
     text-align: center;
     font-weight:normal;
 }
+
 span {
     font-weight: 100;
     font-family:Courier New;
 }
+
 #nav-bar #navlink #button {
     font-size: 17px;
 }
+
 #nav-bar .nav-link #button {
     font-size: 30px;
 }
+
 .nav-list {
     color: #ffffff;
     text-decoration: none;
 }
+
 .nav-link {
     display: flex;
     justify-content: space-around;
@@ -56,30 +66,37 @@ span {
     color: #ffffff;
     list-style: none;
 }
+
 #search-icon {
     display: relative;
     margin-left:10px;
 }
+
 #main-paragraph {
     padding: 0%;
 }
+
 footer #img {
     padding-top: 3px;
 }
+
 footer #img .img2 {
     width: 24.8%;
     height: 280px; 
 }
+
 .foot-text {
     margin-left: 20%;
     padding-top: 40px;
     font-size: 20px;
     color: #565457;
 }
+
 .foot-text .link {
     text-decoration: none;
     color: #5ac6fb;
 }
+
 #foot2 {
     display: grid;
     grid-template-columns: repeat(7, max-content) 25px;
@@ -88,11 +105,13 @@ footer #img .img2 {
     margin-left: 70%;
     transform: translateY(-120px); 
 }
+
 #foot2 .link2 {
     text-decoration: none;
     color: #5ac6fb;
     font-size: 20px;
 }
+
 #foot2 .link2:hover {
     text-decoration: underline;  
 }
