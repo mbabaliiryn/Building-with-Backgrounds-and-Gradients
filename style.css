@@ -5,6 +5,7 @@
 
 body {
    overflow: scroll;
+
 }
 
 main {
@@ -23,7 +24,8 @@ main {
     border-radius: 10px;
     margin-left: 150px;
     margin-right: 150px;
-    height: 30px;  
+    height: 30px; 
+
 }
 
 #input {
@@ -36,9 +38,10 @@ main {
     margin-left:30%;
     margin-right: 30%;
     font-size: 40px;
-    color: #ffffff;
+    color: #fff;
     text-align: center;
     font-weight:normal;
+    
 }
 
 span {
@@ -82,6 +85,7 @@ footer #img {
 footer #img .img2 {
     width: 24.8%;
     height: 280px; 
+
 }
 
 .foot-text {
@@ -94,6 +98,7 @@ footer #img .img2 {
 .foot-text .link {
     text-decoration: none;
     color: #5ac6fb;
+
 }
 
 #foot2 {
@@ -103,16 +108,19 @@ footer #img .img2 {
     list-style: none;
     margin-left: 70%;
     transform: translateY(-120px); 
+
 }
 
 #foot2 .link2 {
     text-decoration: none;
     color: #5ac6fb;
     font-size: 20px;
+
 }
 
 #foot2 .link2:hover {
     text-decoration: underline;  
+
 }
 
 
