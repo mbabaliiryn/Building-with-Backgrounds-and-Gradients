@@ -4,26 +4,26 @@
 }
 
 body {
-   overflow: scroll;
+  overflow: scroll;
 }
 
 main {
-    background-image: url("img/large.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 800px;
-}  
+  background-image: url("img/large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+} 
 
 #nav-bar {
-    background-color:#565457;
-    transform:translateY(100px);
-    padding:15px 0;
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 10px;
-    margin-left: 150px;
-    margin-right: 150px;
-    height: 30px; 
+  background-color: #565457; 
+  transform: translateY(100px); 
+  padding: 15px 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 30px; 
 }
 
 #input {
@@ -32,88 +32,88 @@ main {
 }
 
 .text {
-    padding-top: 180px;
-    margin-left:30%;
-    margin-right: 30%;
-    font-size: 40px;
-    color: #fff;
-    text-align: center;
-    font-weight:normal;
+  padding-top: 180px;
+  margin-left:30%;
+  margin-right: 30%;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  font-weight: normal;
 }
 
 span {
-    font-weight: 100;
-    font-family:Courier New;
+  font-weight: 100;
+  font-family: Courier New;
 }
 
 #nav-bar #navlink #button {
-    font-size: 17px;
+  font-size: 17px;
 }
 
 #nav-bar .nav-link #button {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .nav-list {
-    color: #ffffff;
-    text-decoration: none;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .nav-link {
-    display: flex;
-    justify-content: space-around;
-    font-size: 25px;
-    color: #ffffff;
-    list-style: none;
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  color: #ffffff;
+  list-style: none;
 }
 
 #search-icon {
-    display: relative;
-    margin-left:10px;
+  display: relative;
+  margin-left: 10px;
 }
 
 #main-paragraph {
-    padding: 0%;
+  padding: 0%;
 }
 
 footer #img {
-    padding-top: 3px;
+  padding-top: 3px;
 }
 
 footer #img .img2 {
-    width: 24.8%;
-    height: 280px; 
+  width: 24.8%;
+  height: 280px; 
 }
 
 .foot-text {
-    margin-left: 20%;
-    padding-top: 40px;
-    font-size: 20px;
-    color: #565457;
+  margin-left: 20%;
+  padding-top: 40px;
+  font-size: 20px;
+  color: #565457;
 }
 
 .foot-text .link {
-    text-decoration: none;
-    color: #5ac6fb;
+  text-decoration: none;
+  color: #5ac6fb;
 }
 
 #foot2 {
-    display: grid;
-    grid-template-columns: repeat(7, max-content) 25px;
-    column-gap: 10px;
-    list-style: none;
-    margin-left: 70%;
-    transform: translateY(-120px); 
+  display: grid;
+  grid-template-columns: repeat(7, max-content) 25px;
+  column-gap: 10px;
+  list-style: none;
+  margin-left: 70%;
+  transform: translateY(-120px); 
 }
 
 #foot2 .link2 {
-    text-decoration: none;
-    color: #5ac6fb;
-    font-size: 20px;
+  text-decoration: none;
+  color: #5ac6fb;
+  font-size: 20px;
 }
 
 #foot2 .link2:hover {
-    text-decoration: underline;  
+  text-decoration: underline;  
 }
 
 
