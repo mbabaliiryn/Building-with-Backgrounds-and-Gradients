@@ -9,7 +9,7 @@ body {
 
 main {
 
-    background-image: url("img/video4.png");
+    background-image: url("img/large.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -38,8 +38,14 @@ main {
     margin-right: 30%;
     font-size: 40px;
     color: #ffffff;
+    text-align: center;
+    font-weight:normal;
 }
 
+span{
+    font-weight: 100;
+    font-family:Courier New;
+}
 #nav-bar #navlink #button {
     font-size: 17px;
 }
@@ -61,11 +67,14 @@ main {
     list-style: none;
 }
 
-#search-icon{
-   
+#search-icon {
     display: relative;
     margin-left:10px;
 
+}
+
+#main-paragraph {
+    padding: 0%;
 }
 
 footer #img {
