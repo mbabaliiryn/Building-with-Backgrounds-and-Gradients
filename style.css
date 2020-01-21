@@ -1,14 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
-    
 }
+
 body {
-    overflow: scroll;
+   overflow: scroll;
 }
 
 main {
-
     background-image: url("img/large.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,7 +26,7 @@ main {
     height: 30px;  
 }
 
-#input{
+#input {
     border-radius: 10px;
     font-size: 20px;
 }
@@ -42,7 +41,7 @@ main {
     font-weight:normal;
 }
 
-span{
+span {
     font-weight: 100;
     font-family:Courier New;
 }
@@ -70,7 +69,6 @@ span{
 #search-icon {
     display: relative;
     margin-left:10px;
-
 }
 
 #main-paragraph {
@@ -98,7 +96,7 @@ footer #img .img2 {
     color: #5ac6fb;
 }
 
-#foot2{
+#foot2 {
     display: grid;
     grid-template-columns: repeat(7, max-content) 25px;
     column-gap: 10px;
@@ -113,7 +111,7 @@ footer #img .img2 {
     font-size: 20px;
 }
 
-#foot2 .link2:hover{
+#foot2 .link2:hover {
     text-decoration: underline;  
 }
 
