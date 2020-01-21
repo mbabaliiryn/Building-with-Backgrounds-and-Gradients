@@ -41,14 +41,13 @@ main {
 
 span {
   font-weight: 100;
-  font-family: Courier New;
 }
 
 #nav-bar #navlink #button {
   font-size: 17px;
 }
 
-#nav-bar .nav-link #button {
+#nav-bar #nav-link #button {
   font-size: 30px;
 }
 
@@ -113,5 +112,3 @@ footer #img .img2 {
 #foot2 .link2:hover {
   text-decoration: underline;
 }
-
-
