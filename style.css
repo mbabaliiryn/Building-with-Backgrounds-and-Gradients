@@ -15,15 +15,15 @@ main {
 }
 
 #nav-bar {
-  background-color: #565457; 
-  transform: translateY(100px); 
+  background-color: #565457;
+  transform: translateY(100px);
   padding: 15px 0;
   margin-left: 10%;
   margin-right: 10%;
   border-radius: 10px;
   margin-left: 150px;
   margin-right: 150px;
-  height: 30px; 
+  height: 30px;
 }
 
 #input {
@@ -82,7 +82,7 @@ footer #img {
 
 footer #img .img2 {
   width: 24.8%;
-  height: 280px; 
+  height: 280px;
 }
 
 .foot-text {
@@ -103,7 +103,7 @@ footer #img .img2 {
   column-gap: 10px;
   list-style: none;
   margin-left: 70%;
-  transform: translateY(-120px); 
+  transform: translateY(-120px);
 }
 
 #foot2 .link2 {
@@ -113,7 +113,7 @@ footer #img .img2 {
 }
 
 #foot2 .link2:hover {
-  text-decoration: underline;  
+  text-decoration: underline; 
 }
 
 
