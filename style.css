@@ -15,7 +15,7 @@ main {
 }
 
 #nav-bar {
-  background: #5d5d61;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,75,108,0.9598214285714286) 52%, rgba(130,125,125,0.8841911764705882) 100%);
   transform: translateY(100px);
   padding: 15px 0;
   border-radius: 10px;
@@ -79,13 +79,10 @@ span {
   padding: 0%;
 }
 
-footer #img {
-  padding-top: 3px;
-}
-
 footer #img .img2 {
-  width: 25%;
+  width: 24.8%;
   height: 280px;
+  box-sizing: border-box;
 }
 
 .foot-text {
