@@ -57,7 +57,7 @@ span {
   text-decoration: none;
 }
 
-.nav-list:hover{
+.nav-list:hover {
   font-size: 30px;
   transition: 0.5s;
 }
