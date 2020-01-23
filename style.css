@@ -103,10 +103,8 @@ footer #img .img2 {
   color: #5ac6fb;
 }
 
-
 #foot2 {
   display: flex;
-  /* grid-template-columns: repeat(7, max-content) 25px; */
   list-style: none;
 }
 
@@ -126,5 +124,4 @@ footer #img .img2 {
   padding-top: 40px;
   justify-content: space-around;
   padding-bottom: 20px;
-
 }
