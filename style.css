@@ -5,10 +5,9 @@
 }
 
 main {
-  background-image: url("img/large.jpg");
-  background-repeat: no-repeat;
+  background: url(img/hero.jpg) 50% 100% no-repeat;
   background-size: cover;
-  height: 800px;
+  height: 525px;
 }
 
 #nav-bar {
