@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+main {
+  background: url(img/hero.jpg) 50% 100% no-repeat;
+  background-size: cover;
+  height: 525px;
+}
+
+#nav-bar {
+  background: linear-gradient(rgb(43, 41, 41), rgb(124, 124, 118), rgb(23, 24, 23));
+  transform: translateY(100px);
+  padding: 15px 0;
+  border-radius: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 30px;
+  border: 1px solid #5d5d61;
+}
+
+#input {
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.text {
+  padding-top: 180px;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  font-weight: normal;
+}
+
+span {
+  font-weight: 100;
+}
+
+#nav-bar #navlink #button {
+  font-size: 17px;
+}
+
+#nav-bar #nav-link #button {
+  font-size: 30px;
+}
+
+.nav-list {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-list:hover {
+  font-size: 30px;
+  transition: 0.5s;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  color: #fff;
+  list-style: none;
+}
+
+#search-icon {
+  display: relative;
+  margin-left: 10px;
+}
+
+footer {
+  max-width: 100vw;
+  box-sizing: border-box;
+}
+
+footer #img a img {
+  height: 280px;
+  width: 24.7%;
+  margin: 0;
+  padding: 0;
+}
+
+.foot-text {
+  font-size: 20px;
+  color: #565457;
+}
+
+.foot-text .link {
+  text-decoration: none;
+  color: #5ac6fb;
+}
+
+#foot2 {
+  display: flex;
+  list-style: none;
+}
+
+#foot2 .link2 {
+  text-decoration: none;
+  color: #5ac6fb;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+#foot2 .link2:hover {
+  text-decoration: underline;
+}
+
+#bottom-footer {
+  display: flex;
+  padding-top: 40px;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
