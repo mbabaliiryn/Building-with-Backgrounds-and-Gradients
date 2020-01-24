@@ -3,7 +3,7 @@
   padding: 0;
   outline: none;
 }
-
+  
 main {
   background-image: url("img/large.jpg");
   background-repeat: no-repeat;
@@ -77,11 +77,7 @@ footer {
   box-sizing: border-box;
 }
 
-footer #img {
-  width: 80%;
-}
-
-footer #img a {
+footer #img a img {
   height: 280px;
   width: 24.7%;
   margin: 0;
