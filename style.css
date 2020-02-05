@@ -3,11 +3,13 @@
   padding: 0;
   outline: none;
 }
+body {
 
+}
 main {
   background: url(img/hero.jpg) 50% 100% no-repeat;
   background-size: cover;
-  height: 525px;
+  height: 634px;
 }
 
 #nav-bar {
@@ -18,7 +20,7 @@ main {
   margin-left: 150px;
   margin-right: 150px;
   height: 30px;
-  border: 1px solid #5d5d61;
+
 }
 
 #input {
@@ -51,11 +53,15 @@ span {
 .nav-list {
   color: #fff;
   text-decoration: none;
+  border-right: 1px solid grey;
+  padding: 15px 60px;
+
 }
 
 .nav-list:hover {
   font-size: 30px;
-  transition: 0.5s;
+  background-color: black;
+
 }
 
 .nav-link {
@@ -64,6 +70,8 @@ span {
   font-size: 20px;
   color: #fff;
   list-style: none;
+  border-right: 2px solid grey;
+
 }
 
 #search-icon {
@@ -114,4 +122,13 @@ footer #img a img {
   padding-top: 40px;
   justify-content: space-around;
   padding-bottom: 20px;
+}
+
+#icon {
+  position: relative;
+  top: -20px;
+}
+
+#input {
+  background: none;
 }
